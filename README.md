@@ -1,4 +1,4 @@
-# Luna II
+# Luna III
 
 This plasmoid displays the current phase of the moon.
 

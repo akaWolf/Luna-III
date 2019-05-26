@@ -1,7 +1,7 @@
 /*
 
     Copyright 2016 Bill Binder <dxtwjb@gmail.com>
-      Updated the Luna QML plasmoid from Plasma 4 to Plasma 5.
+       Updated the Luna QML plasmoid from Plasma 4 to Plasma 5.
     Copyright (C) 2011, 2012, 2013 Glad Deschrijver <glad.deschrijver@gmail.com>
 
     This program is free software; you can redistribute it and/or modify

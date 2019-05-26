@@ -27,7 +27,6 @@ import "../code/shadowcalcs.js" as ShadowCalcs
 Item {
     id: lunaIcon
 
-    property int phaseNumber: 0
     property int hemisphere: 0
     property bool showShadow: true
     property string lunarImage: ''
@@ -91,7 +90,7 @@ Item {
         onPaint:
         {
             context.reset()
-            context.globalAlpha = 0.9
+            context.globalAlpha = 0.5
             context.fillStyle = '#000000'
 
             function radians(deg) {

@@ -3,7 +3,7 @@
 # based on example found here:
 #   https://techbase.kde.org/Development/Tutorials/Localization/i18n_Build_Systems
 
-BUGADDR="https://github.com/wwjjbb/Luna-II/issues"	# MSGID-Bugs
+BUGADDR="https://github.com/akaWolf/Luna-III/issues"	# MSGID-Bugs
 
 BASEDIR=".."	# root of translatable sources
 METADATA="../../metadata.desktop"

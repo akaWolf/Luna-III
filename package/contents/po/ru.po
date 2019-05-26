@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.1\n"
-"Report-Msgid-Bugs-To: https://github.com/wwjjbb/Luna-II/issues\n"
-"POT-Creation-Date: 2017-07-14 15:33+0100\n"
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/akaWolf/Luna-III/issues\n"
+"POT-Creation-Date: 2019-05-26 12:53+0300\n"
 "PO-Revision-Date: 2017-07-01 14:29+0100\n"
 "Last-Translator: Bill Binder <dxtwjb@gmail.com>\n"
 "Language-Team: n/a\n"

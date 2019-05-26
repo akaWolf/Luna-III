@@ -71,7 +71,6 @@ Item {
         function updateDetails() {
             // set the correct image for the moon
             currentPhase = LunaCalc.getCurrentPhase(true);
-            lunaIcon.phaseNumber = 13; //currentPhase.number;
             lunaIcon.theta = currentPhase.terminator;
             lunaIcon.hemisphere = hemisphere;
 
